@@ -13,4 +13,4 @@ Our initial exploratory data metrics uncovered a consistent historical trend whe
 
 ### Machine Learning Feature Weights
 Evaluating the algorithm's internal logic via feature importance extraction proves that macro-level fertilizer demand across Indian states is highly inelastic year-over-year, relying heavily on the engineered historical consumption lag ($t-1$) feature.
-![Feature Importances](visuals/feature_importance_chart.png)
+![Feature Importances](visuals/feature_importance.png)
